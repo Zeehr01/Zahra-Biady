@@ -1,3 +1,5 @@
+<?php include 'sentMail.php';?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -168,14 +170,17 @@
               <!--  <h2 class="text-7 text-white fw-600 mb-3">I'm <span class="text-primary">Zahra,</span> a Software Engineer</h2>-->
 
               <p class="text-white text-center">I'm Zahra, I am a Software engineer. I like to resolve programming
-                challenges, create smart user interface and imagine useful interaction,
-                developing rich experiences.
+                challenges, I’m passionate about software development and I’m looking forward to
+                 getting to work on new projects in the near future.
               </p>
-              <p class="text-white text-center">Delivering work with good quality, within time and which meets client’s
-                requirements
-                is my moto.<br />
-                Well-organised person, problem solver, independent employee with high attention to detail. Fan of MMA,
-                outdoor activities, TV series and English literature.
+              <p class="text-white text-center">Something that I love about software development is the opportunity
+                 to work with people from a wide range of disciplines. The software development lifecycle 
+                 involves working with so many different people and departments and, as a people person and someone 
+                 who loves to build new relationships, 
+                it’s great to be able to come together with other professionals who are striving towards the same goal.<br />
+                <br/>
+                If you want to talk about software development, coding or anything else, drop me a line,
+                 I am currently available for employment.
 
                 <br />
               </p>
@@ -510,27 +515,29 @@
               <h2 class="text-6 text-white fw-600 mb-4"><i class="fas fa-laptop-code"></i> My Experience</h2>
               <div class="bg-dark rounded p-4 mb-4">
                 <p class="badge bg-danger text-2 fw-400">2021 - 2022</p>
-                <h3 class="text-5 text-white">ERP Technical Consultant</h3>
+                <h3 class="text-5 text-white">ERP Technical Consultant JAVA</h3>
                 <img class="img-fluid d-block"  src="https://alter-si.fr/wp-content/uploads/2019/12/alter-si-logo-small.png" alt="alter-si-logo">
 
                 <p class="text-white-50 mb-0">
-                  J'ai fait mon alternance chez Alter SI, j'ai travailler sur la solution ERP Axelor Open Suite 
-                  j'ai participer a l’ensemble du cycle technique : personnalisations de l’ERP,
-                  développements spécifiques et déploiements sur les serveurs.
-                  le stack technique :<br/>
-                          Langages : Java 8,  XML, PSQL,Groovy<br/>
+                  I did my apprenticeship at Alter SI, I worked on the Axelor Open Suite ERP solution, I participated in the whole technical cycle: ERP customizations, specific developments and deployments on the servers.
+the technical stack :<ul class="text-white-50 mb-0">
+  <li>Languages: Java 8, XML, PSQL, Groovy</li>
+<li>IDE: Eclipse Neon and Oxygen</li>
+  <li> Web container: Tomcat 8.5</li>
+  <li> Database: PostgreSQL 9.5</li>
+ <li> Servers: Debian 9.6</li>
+  <li>  Build: Gradle 5.1</li>
+ <li>  CI/CD : GitLab / Jenkins</li>
+  
+  
+  
+ 
+  
 
-                          IDE : Eclipse Neon et Oxygen<br/>
+</ul>
                           
-                          Conteneur Web : Tomcat 8.5<br/>
-                          
-                          BDD : PostgreSQL 9.5<br/>
-                          
-                          Serveurs : Debian 9.6 <br/>
-                          
-                          Build : Gradle 5.1<br/>
-                          
-                          CI/CD : GitLab / Jenkins</p>
+                        
+                        </p>
               </div>
               <div class="bg-dark rounded p-4 mb-4">
                 <p class="badge bg-danger text-2 fw-400">2021</p>
@@ -538,30 +545,38 @@
                 <img class="img-fluid d-block" style="width:16% ;height: 10%; margin-bottom: 0.3cm ;margin-top: 0.3cm;" src="https://image-parcours.copainsdavant.com/image/750/1261342644/4078079.jpg" alt="alter-si-logo">
 
                 <p class="text-white-50 mb-0">
-                  I did an internship at Orange for six months
-                  Examine the possibility of composing innovative new services in a quick and eﬃcient
-way, using the integration platform Mulesoft.
-• Master the integration platform to compose and deploy new use cases using con-
-nectors and API.
+                  I did an internship at Orange for six months, during which I :<br/>
+                  <ul class="text-white-50 mb-0">
+                    <li>Examined the possibility of composing innovative services in a fast and eﬃcient way, using the Mulesoft integration platform.
+                    </li>
+                    <li> Mastered the integration platform to compose and deploy new use cases using connectors and APIs.
+                    </li>
+                    <li> Integrated Orange APIs and external APIs (Microsoft, Google) into the platform.
+                    </li>
+                    <li> Design and compose the services using  Anypoint platform and Anypoint Studio.</li>
+                  </ul>
+
+
+
                 </p>
               </div>
               <div class="bg-dark rounded p-4 mb-4">
                 <p class="badge bg-danger text-2 fw-400">2019- 2020</p>
-                <h3 class="text-5 text-white">Backend Developper</h3>
+                <h3 class="text-5 text-white">Backend Developper JAVA || SpringBoot</h3>
                 <img class="img-fluid d-block" style="width:23% ;height: 10%; margin-bottom: 0.3cm ;margin-top: 0.3cm;" src="images/odco-logo.png" alt="alter-si-logo">
-                <p class="text-white-50 mb-0">The project consists in developing a website where ODCO could dynamically con-
-                  sult its data and visualize the statistics related to the data archives. To do this, we
-                  created a REST API using JAVA and SpringBoot for the backend development and
+                <p class="text-white-50 mb-0">The project consists in developing a web application where ODCO could dynamically
+                  consult its data and visualize the statistics related to the data archives. To do this, we
+                  created a REST API using JAVA and SpringBoot for the backend and
                   Reactjs for the frontend.</p>
               </div>
               <div class="bg-dark rounded p-4 mb-4">
                 <p class="badge bg-danger text-2 fw-400">2019</p>
                 <h3 class="text-5 text-white">Java Swing Deveopper</h3>
                 <img class="img-fluid d-block" style="width:23% ;height: 10%; margin-bottom: 0.3cm ;margin-top: 0.3cm;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/OCP_Group.svg/1200px-OCP_Group.svg.png" alt="alter-si-logo">
-                <p class="text-white-50 mb-0">The objective is to develop an application to order and deliver meals to OCP em-
-                  ployees in their oﬃces. The application will help the service manager to anticipate
-                  the quantity of meals to prepare. The application was developed using JAVA, Mysql
-                  and swing Library.</p>
+                <p class="text-white-50 mb-0">The objective is to develop an application to order and deliver meals to OCP
+                  employees in their oﬃces. The application will help the service manager to anticipate
+                  the quantity of meals to prepare. The application was developed using JAVA, 
+                  Swing Library and MySql.</p>
               </div>
             </div>
          
@@ -770,15 +785,15 @@ nectors and API.
                 class="heading-separator-line border-bottom border-3 border-primary d-block mx-auto"></span> </p>
           </div>
           <p class="text-white text-center" style="font-size: 14px;">
-            I’m interested in freelance opportunities, especially ambitious or large projects.</br> However, if you
-            have other request or question, don’t hesitate to use the form.
+            I’m interested in projetcs opportunities, especially ambitious or large projects.</br> However, if you
+            have other request or question, don’t hesitate to send a message.
           </p>
           </br>
 
           <!-- Heading end-->
 
           <!-- <h2 class="mb-3 text-5 text-white text-uppercase text-center text-md-start">Send us a note</h2> -->
-          <form id="contact-form" class="form-dark" action="https://formsubmit.co/el/horiyu" method="POST">
+          <form id="contact-form" class="form-dark"  action="" method="post">
             <div class="row g-4">
               <div class="col-xl-6">
                 <input name="name" type="text" class="form-control" required placeholder="Name">
